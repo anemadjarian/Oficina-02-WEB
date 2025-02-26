@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Encontro 2</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="fita.css">
+        <link rel="stylesheet" href="banda.css">
+        <style>
+            p {color:fuchsia}
+            #primeira-div {
+                color:white;
+                background-color: blueviolet;
+                text-decoration: underline;
+            }
+
+            #segunda-div {
+             color:white;
+             background-color: red;
+             text-decoration: line-through;
+            }
+
+            .outras-divs {
+             color:white;
+             background-color: lawngreen;
+             text-decoration:line-through;
+            }
+
+            .bloco {
+                width: 3rem;
+                height: 3rem;
+                border-radius: .5rem;
+                background-color: aqua;
+                color:crimson;
+                margin: 1rem;
+                padding: 1rem;
+            }
+
+            .faixa {
+                background-color: darkgoldenrod;
+                color:black;
+                padding: 1rem;
+                margin: 1rem;
+            }
+
+            .barra {
+                background-color: mediumseagreen;
+                color:green
+            }
+
+            #tora {
+                background-color: darkred;
+                color: gainsboro;
+                margin: 1rem;
+                padding: 1rem;
+            }
+
+            .madeira {
+                background-color: navy;
+                color: yellowgreen;
+                margin: 1rem;
+                padding: 1rem;
+            }
+
+            .container {
+                height: 10rem;
+                border: solid .5px brown;
+                border-radius: .5rem;
+                padding: 1rem;
+                box-shadow: .5rem .5rem .3rem .3rem lightsalmon;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+            }
+
+            .item{
+                width: 4rem;
+                height: 4rem;
+                border: .2rem solid blueviolet;
+                color: blueviolet;
+                background-color: indigo;
+                margin: 1rem;
+            }
+
+        </style>
+    </head>
+    <body>
+        <p style="color:blue">
+            Este é o primeiro parágrafo
+        </p>
+        <div id="primeira-div">
+            Esta é a primeira div
+        </div>
+        <div id="segunda-div">
+            Esta é a segunda div
+        </div>
+        <div class="outras-divs">
+            Esta é a terceira div
+        </div>
+        <div class="outras-divs">
+            Esta é a quarta div
+        </div>
+
+        <div class="bloco">Isto é um bloco.</div>
+        <div class="bloco">Isto é um bloco.</div>
+        <div class="bloco">Isto é um bloco.</div>
+
+        <div class="faixa barra">
+            Esta é a quinta div
+        </div>
+        <div class="barra faixa">
+            Esta é a sexta div
+        </div>
+
+        <div class="banda fita">Esta é a setima div</div>
+        <div class="fita banda">ESta é a oitava div</div>
+
+        <div id="tora" class="madeira">
+            Esta é a nona div
+        </div>
+
+        <div class="container">
+            <div class="item">Item 1</div>
+            <div class="item">Item 2</div>
+            <div class="item">Item 3</div>
+            <div class="item">Item 4</div>
+            <div class="item">Item 5</div>
+            <div class="item">Item 6</div>
+            <div class="item">Item 7</div>
+            <div class="item">Item 8</div>
+            <div class="item">Item 9</div>
+            <div class="item">Item 10</div>
+            <div class="item">Item 11</div>
+            <div class="item">Item 12</div>
+        </div>
+
+    </body>
+</html>
