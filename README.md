@@ -1,19 +1,31 @@
-# Introdução à Programação para a Web
+# 🧠 Fundamentos de Algoritmos e Estruturas de Dados II
+
+Este repositório reúne os materiais, exercícios e projetos desenvolvidos durante a oficina.
 
 ---
 
-## Sobre a Oficina
+## 📘 Sobre a Oficina
 
-Esta oficina extracurricular foi oferecida pela **PUC Minas** e ministrada pelo professor **Wesley Maciel**.
+O programa de extenção teve como objetivo aprofundar os conhecimentos em algoritmos e estruturas de dados, abordando tópicos essenciais para a resolução eficiente de problemas computacionais. Foram exploradas estruturas clássicas, análise de complexidade e implementação prática em linguagem de programação.
 
-✅ **Oficina concluída em 19 de março de 2025**
+📌 **Nome:** Fundamentos de Algoritmos e Estruturas de Dados II  
+🏫 **Tipo:** Oficina extracurricular  
+🎓 **Instituição:** PUC Minas  
+👨‍🏫 **Professor:** Matheus Pereira 
+🎯 **Status:** Em andamento
+📅 **Início:** 27/08/2025
 
 ---
 
-## Conteúdo Abordado
+## 📚 Conteúdos Abordados Até o Momento
 
-- Fundamentos da programação para a web  
-- Estrutura básica de páginas web (HTML, CSS)  
-- Introdução ao JavaScript  
-- Boas práticas de desenvolvimento  
-- Exemplos práticos e exercícios  
+- Manipulação de Somatórios
+- Estruturas de Dados Lineares
+- Ordenação
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Linguagem: Java
+- IDE: VSCode 
