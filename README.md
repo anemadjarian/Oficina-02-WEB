@@ -11,9 +11,9 @@ O programa de extenção teve como objetivo aprofundar os conhecimentos em algor
 📌 **Nome:** Fundamentos de Algoritmos e Estruturas de Dados II  
 🏫 **Tipo:** Oficina extracurricular  
 🎓 **Instituição:** PUC Minas  
-👨‍🏫 **Professor:** Matheus Pereira 
-🎯 **Status:** Em andamento
-📅 **Início:** 27/08/2025
+👨‍🏫 **Professor:** Matheus Pereira  
+🎯 **Status:** Em andamento  
+📅 **Início:** 27/08/2025  
 
 ---
 
