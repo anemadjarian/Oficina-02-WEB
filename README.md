@@ -1,4 +1,4 @@
-# Oficina Extracurricular: Introdução à Programação para a Web
+# Introdução à Programação para a Web
 
 ---
 
