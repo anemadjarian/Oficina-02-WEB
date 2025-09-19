@@ -6,7 +6,7 @@ Este repositório reúne os materiais, exercícios e projetos desenvolvidos dura
 
 ## 📘 Sobre a Oficina
 
-O programa de extenção teve como objetivo introduzir os conhecimentos em programação web, abordando tópicos essenciais nas linguagens de HTML, cSS e JS.  
+O programa de extenção teve como objetivo introduzir os conhecimentos em programação web, abordando tópicos essenciais nas linguagens de HTML, CSS e JS.  
 
 📌 **Nome:** Introdução à Programação Web  
 🏫 **Tipo:** Oficina extracurricular  
