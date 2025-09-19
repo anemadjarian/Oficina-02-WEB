@@ -1,4 +1,4 @@
-# 🧠 Fundamentos de Algoritmos e Estruturas de Dados II
+# 🧠 Introdução à Programação Web
 
 Este repositório reúne os materiais, exercícios e projetos desenvolvidos durante a oficina.
 
@@ -6,26 +6,26 @@ Este repositório reúne os materiais, exercícios e projetos desenvolvidos dura
 
 ## 📘 Sobre a Oficina
 
-O programa de extenção teve como objetivo aprofundar os conhecimentos em algoritmos e estruturas de dados, abordando tópicos essenciais para a resolução eficiente de problemas computacionais. Foram exploradas estruturas clássicas, análise de complexidade e implementação prática em linguagem de programação.
+O programa de extenção teve como objetivo introduzir os conhecimentos em programação web, abordando tópicos essenciais nas linguagens de HTML, cSS e JS.  
 
-📌 **Nome:** Fundamentos de Algoritmos e Estruturas de Dados II  
+📌 **Nome:** Introdução à Programação Web  
 🏫 **Tipo:** Oficina extracurricular  
 🎓 **Instituição:** PUC Minas  
-👨‍🏫 **Professor:** Matheus Pereira  
-🎯 **Status:** Em andamento  
-📅 **Início:** 27/08/2025  
+👨‍🏫 **Professor:** Wesley Maciel  
+⌚ **Horas:** 10 horas  
+🎯 **Status:** Finalizado  
+📅 **Fim:** 19/03/2025  
 
 ---
 
-## 📚 Conteúdos Abordados Até o Momento
+## 📚 Conteúdos Abordados
 
-- Manipulação de Somatórios
-- Estruturas de Dados Lineares
-- Ordenação
+- Introdução ao HTML
+- Introdução ao CSS
+- Introdução ao JavaScript
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem: Java
-- IDE: VSCode 
+- Linguagem: HTML, CSS, JavaScript
